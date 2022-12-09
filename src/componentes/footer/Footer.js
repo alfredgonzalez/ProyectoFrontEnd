@@ -2,7 +2,7 @@ import React from "react";
 import "./footer.css";
 import logo from "../img/logo.png"
 import Button from "react-bootstrap/esm/Button";
-import Contacto from "../contacto/Contacto.js";
+import Contacto from "../form/Contacto.js"
 
 const Footer = () =>{
     return(
