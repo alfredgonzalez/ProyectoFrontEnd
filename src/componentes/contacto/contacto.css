@@ -1,0 +1,26 @@
+.form{
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 50%;
+
+}
+.labelEmail{
+    color: rgb(108, 105, 105);
+}
+.labelMensaje{
+    color:rgb(108, 105, 105);
+}
+.frmGroupMensaje{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+}
+.frmGroupEmail{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+}

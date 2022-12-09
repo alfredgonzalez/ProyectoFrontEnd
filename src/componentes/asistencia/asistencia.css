@@ -1,0 +1,85 @@
+.asistenciaTitulo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(108, 105, 105);
+    margin: 5px;
+}
+.divTextoAsistencia{
+    margin-top: 30px;
+    background-color: #f4ebe8;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.logoAsistencia{
+    display:block;
+    margin: auto;
+}
+.textoAsistencia{
+    font-size: 20px; 
+    line-height: 2.1em;
+    text-align: center;
+    color:rgb(108, 105, 105);;
+}
+.botones{
+    display: grid;
+    grid-row: auto;
+    justify-content: center;
+}
+.botonAsistencia{
+    width: 300px;
+    height: 40px;
+    margin: 0.5rem;
+    text-align: center;
+    border: transparent;
+    cursor: pointer;
+    font-size: 1.5rem;
+
+}
+.botonGuardarfecha{
+    width: 300px;
+    height: 100px;
+    margin: 0.5rem;
+    border: transparent;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+.nosotrosTitulo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(108, 105, 105);
+    margin: 5px;
+}
+.nosotros{
+    margin-top: 2.5rem;
+}
+
+@media screen and (max-width: 320px) {
+    .asistenciaTitulo{
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(108, 105, 105);
+        margin: 1%;
+    }
+    .divTextoAsistencia{
+        margin-top: 3%;
+        background-color: #f4ebe8;
+        font-size: 3%;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .logoAsistencia{
+        display:block;
+        margin: auto;
+        width: 10%;
+    }
+    .textoAsistencia{
+        font-size: 20px; 
+        line-height: 2.1em;
+        text-align: center;
+        color:rgb(108, 105, 105);;
+    }
+    
+}

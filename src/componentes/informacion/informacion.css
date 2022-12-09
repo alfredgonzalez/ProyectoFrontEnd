@@ -1,0 +1,78 @@
+.informacion{
+    margin-top: 40px;
+    background-color: #f4ebe8;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.titulo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(108, 105, 105);
+    margin: 5px;
+    
+}
+
+.texto{
+    font-size: 20px; 
+    line-height: 2.1em;
+    text-align: center;
+    color:rgb(108, 105, 105);;
+}
+
+.logo{
+    display:block;
+    margin: auto;
+
+}
+.comoLlegar{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
+    color: rgb(108, 105, 105);;
+    margin-left: 40%;
+
+    font-size: 20px; 
+    line-height: 2.1em;
+}
+.logoUbicacion{
+    width: 5%;
+    height: 5%;
+    margin-bottom: 5px;
+  
+}
+@media screen and  (max-width: 480px){
+    .informacion{
+        width: 100%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .divTexto{
+        margin-top: 10%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 4%;
+
+    }
+    .titulo{
+        width: 100%;
+        line-height: 0;
+    }
+    .logo{
+        display:none;
+        margin: auto;
+    
+    }
+    .comoLlegar{
+    margin-left: 25%;
+    font-size: 15px; 
+    line-height: 2.1em;
+}
+    
+   
+}
