@@ -27,45 +27,59 @@
 }
 @media screen and (max-width: 360px) {
     .countdown-timer {
-        width: 50%;
-        height: 50%;
-        border: 2px solid   #f4ebe8;
+        width: 40%;
+        height: 40%;
+        border: 0px solid   #f4ebe8;
         color:  rgb(108, 105, 105);
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: 15px;
-    
+        font-size: 1px;
+        
         justify-content: left;
         align-items: left;
         background-color:  #f4ebe8;
-    }   
+    }.countdown-timer span {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
     
 }
 @media screen and (max-width: 480px) {
     .countdown-timer {
-        width: 50%;
-        height: 50%;
-        border: 2px solid   #f4ebe8;
+        width: 30%;
+        height: 30%;
+        border: 0px solid   #f4ebe8;
         color:  rgb(108, 105, 105);
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: 20px;
+        font-size: 2px;
     
         justify-content: left;
         align-items: left;
         background-color:  #f4ebe8;
     }
+    .countdown-timer span {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    
 }
 @media screen and (max-width: 600px) {
     .countdown-timer {
-        width: 50%;
-        height: 50%;
-        border: 2px solid   #f4ebe8;
+        width: 30%;
+        height: 30%;
+        border: 0px solid   #f4ebe8;
         color:  rgb(108, 105, 105);
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: 20px;
+        font-size: 4px;
     
         justify-content: left;
         align-items: left;
         background-color:  #f4ebe8;
+    }
+    .countdown-timer span {
+        margin-left: 0%;
+        margin-right: 0%;
     }
 }
 @media screen and (max-width: 760px) {
