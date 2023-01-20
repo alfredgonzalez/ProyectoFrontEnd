@@ -5,7 +5,7 @@ import Home from './componentes/home/Home.js';
 import Temporizador from './componentes/temporizador/Temporizador.js';
 import imagen from './componentes/img/fondo.jpg';
 import Informacion from './componentes/informacion/Informacion';
-import Map from './componentes/img/maps.jpg';
+import Map from './componentes/img/mapa.jpg';
 import Asistencia from './componentes/asistencia/asistencia.js';
 import CarouselFadeExample from './componentes/carousel/Carousel.js';
 import Footer from './componentes/footer/Footer';
@@ -19,7 +19,7 @@ function App() {
       <Home/>
       <div className='temporizador'>     
       <Temporizador
-      cuentaRegresivaMS={1679540400000}/>
+      cuentaRegresivaMS={1679682600000}/>
       </div>
       <div>
       <Informacion/>

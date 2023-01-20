@@ -18,8 +18,8 @@ const Asistencia = () =>{
             ¡Te esperamos!</h2>
             </div>
             <div className="botones">
-            <Button className="botonAsistencia" variant="light" href="https://forms.gle/Cu6nbCMyxNWK6Aw29">Asistencia</Button>{''}
-            <Button className="botonGuardarFecha" variant="light" href="https://calendar.google.com/calendar/u/0/r/week/2023/3/23?sf=true">Guarda la fecha!</Button>{''}
+            <Button className="botonAsistencia" variant="outline-secondary" size="lg" href="https://forms.gle/Cu6nbCMyxNWK6Aw29">Asistencia</Button>{''}
+            <Button className="botonGuardarFecha" variant="outline-secondary" size="lg" href="https://calendar.google.com/calendar/u/0/r/day/2023/3/24?sf=true">Guarda la fecha!</Button>{''}
             </div>
             <div className="nosotros">
                 <h3 className="nosotrosTitulo">

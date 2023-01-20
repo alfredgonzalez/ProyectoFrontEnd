@@ -25,17 +25,17 @@ const Temporizador = ({cuentaRegresivaMS}) => {
     }
 
     return(
-        <div>
+        <div className="divTemporizador">
             <h1 className="tituloTemporizador">Falta Solo</h1>
             <div className="countdown-timer">
                 <span>{tiempoRestante.days}</span>
-                <span>Dias</span>
+                <span className="diasRestantes"> Dias </span>
                 <span className="two-numbers">{tiempoRestante.hours}</span>
-                <span>Horas</span>
+                <span className="hora"> Hora </span>
                 <span className="two-numbers">{tiempoRestante.minutes}</span>
-                <span>Minutos</span>
+                <span> Min </span>
                 <span className="two-numbers">{tiempoRestante.seconds}</span>
-                <span>Segundos</span>
+                <span> Seg </span>
             </div>
         </div>
     );
