@@ -1,12 +1,28 @@
-.presentacion{
-    position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
 
+.presentacion{
+
+    width: 100%;
+    height: 800px;
+    margin-bottom: 5%;
+
+}
+@media screen and (max-width: 700px) {
+    .presentacion{
+     height: 700px;
+    }
+     
+ }
+@media screen and (max-width: 600px) {
+    .presentacion{
+     height: 600px;
+    }
+     
+ }
+@media screen and (max-width: 480px) {
+   .presentacion{
+    height: 400px;
+   }
+    
 }
 @media screen and (max-width: 360px) {
    

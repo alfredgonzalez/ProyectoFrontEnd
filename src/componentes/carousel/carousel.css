@@ -21,3 +21,190 @@
     display:block;
     margin: auto;
 }
+.foto4{
+    width: 30rem;
+    height: 50%;
+    display:block;
+    margin: auto;
+}
+
+.foto5{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto6{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto7{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto8{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto9{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto10{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto11{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto12{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto13{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto14{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+.foto15{
+    width: 25rem;
+    height: 100%;
+    display:block;
+    margin: auto;
+}
+
+
+@media screen and (max-width: 480px) {
+    .foto4{
+        width: 23rem;
+    }
+    .foto1{
+        width: 25rem;
+        height: 50%;
+    }
+    .foto2{
+        width: 25rem;
+    }
+    .foto3{
+        width: 20rem;
+    }
+    .foto5{
+        width: 20rem;
+    }
+    .foto6{
+        width: 20rem;
+    }
+    .foto7{
+        width: 20rem;
+    }
+    .foto8{
+        width: 20rem;
+    }
+    .foto9{
+        width: 20rem;
+    }
+    .foto10{
+        width: 20rem;
+    }
+    .foto11{
+        width: 20rem;
+    }
+    .foto12{
+        width: 20rem;
+    }
+    .foto13{
+        width: 20rem;
+    }
+    .foto14{
+        width: 20rem;
+    }
+    .foto15{
+        width: 20rem;
+    }
+}
+@media screen and (max-width: 400px) {
+    .foto4{
+        width: 18rem;
+    }
+    .foto1{
+        width: 20rem;
+        height: 50%;
+    }
+    .foto2{
+        width: 20rem;
+    }
+    .foto3{
+        width: 15rem;
+    }
+    .foto5{
+        width: 15rem;
+    }
+    .foto6{
+        width: 15rem;
+    }
+    .foto7{
+        width: 15rem;
+    }
+    .foto8{
+        width: 15rem;
+    }
+    .foto9{
+        width: 15rem;
+    }
+    .foto10{
+        width: 15rem;
+    }
+    .foto11{
+        width: 15rem;
+    }
+    .foto12{
+        width: 15rem;
+    }
+    .foto13{
+        width: 15rem;
+    }
+    .foto14{
+        width: 15rem;
+    }
+    .foto15{
+        width: 15rem;
+    }
+}
+@media screen and (max-width: 400px) {
+    .foto4{
+        width: 16rem;
+    }
+    .foto1{
+        width: 18rem;
+        height: 50%;
+    }
+    .foto2{
+        width: 18rem;
+    }
+    .foto3{
+        width: 15rem;
+    }
+    
+}

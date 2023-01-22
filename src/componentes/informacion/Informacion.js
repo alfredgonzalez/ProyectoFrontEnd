@@ -10,11 +10,12 @@ const Informacion =  () =>{
             <img className="logo" style={{width:"10%"}} src={logo} alt={'logo'}/>
             <div className="divTexto">
             <h2 className="texto" >
-            Después de muchas aventuras compartidas el
-            23 de Marzo de 2023 a las 18:00 hs. en Astilleros Milberg
-            daremos el “sí quiero”, continuaremos este emocionante viaje juntos
+            Después de muchas aventuras compartidas, el
+            24 de marzo de 2023 a las 18:30 hs en Janos San Miguel
+            daremos el “sí quiero”.<br></br> 
+            Continuaremos este emocionante viaje juntos
             y nos encantaría que nos acompañes a celebrar la fiesta de nuestra
-            boda, llena de brindis, risas y bailes hasta el amanecer.</h2>
+            boda<br></br> llena de brindis, risas y bailes hasta el amanecer.</h2>
             </div>
             <div className="comoLlegar">
             <img className="logoUbicacion" src={logoUbicacion}/>
