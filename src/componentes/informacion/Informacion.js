@@ -16,6 +16,7 @@ const Informacion =  () =>{
             Continuaremos este emocionante viaje juntos
             y nos encantaría que nos acompañes a celebrar la fiesta de nuestra
             boda<br></br> llena de brindis, risas y bailes hasta el amanecer.</h2>
+            boda<br></br> llena de brindis, risas y bailes hasta el amanecer.</h2>
             </div>
             <div className="comoLlegar">
             <img className="logoUbicacion" src={logoUbicacion}/>
