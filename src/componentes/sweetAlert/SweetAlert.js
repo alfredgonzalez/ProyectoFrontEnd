@@ -2,9 +2,8 @@ import React, { Component } from "react";
 import Swal from "sweetalert2";
 import "./sweetalert.css";
 import Button from "react-bootstrap/esm/Button";
-import img from '../img/GIFTFOTO.jpg'
+
  
-const br = "CBU: 0290036010000030595111 - Alias: luciaevagonzalez"
 
 export default class AlertSuccess extends Component {  
   
@@ -16,7 +15,7 @@ export default class AlertSuccess extends Component {
     HandleClick() {  
         Swal.fire({
             title: '¡GRACIAS!',
-            text: br,
+            html: 'CBU: 0290036010000030595111<br>Alias: luciaevagonzalez',
             imageUrl: 'https://www.nationalgeographic.com.es/medio/2018/02/27/playa-de-isuntza-lekeitio__1280x720.jpg',
             background: '#f4ebe8',
             imageWidth: 400,

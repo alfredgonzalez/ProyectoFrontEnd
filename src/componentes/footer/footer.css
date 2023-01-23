@@ -8,6 +8,8 @@
 .logoGift{
     display:block;
     margin: auto;
+    height: 50px;
+    width: 50px;
 }
 .gift{
     text-align: center;
@@ -76,5 +78,9 @@
 @media screen and (max-width: 600px) {
     .giftTexto{
         font-size: 15px;
+    }
+    .logoGift{
+        height: 40px;
+        width: 40px;
     }
 }

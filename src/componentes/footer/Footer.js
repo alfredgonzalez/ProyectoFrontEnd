@@ -5,6 +5,7 @@ import Button from "react-bootstrap/esm/Button";
 import Contacto from "../form/Contacto.js";
 import Alert from '../sweetAlert/SweetAlert.js';
 import Video from '../Video/video.js';
+import logoRegalo from '../img/regalo.png'
 
 
 const Footer = () =>{
@@ -12,11 +13,9 @@ const Footer = () =>{
         <footer>
             <div className="regalos">
                 <h1 className="gift">GIFT</h1>
-                <img className="logoGift" style={{width:"10%"}} src={logo} alt={'logo'}/>
+                <img className="logoGift" src={logoRegalo} alt={'logo'}/>
                 
-                <h2 className="giftTexto">La vida está llena de sueños
-                <br></br>
-                    gracias por ayudarnos a conseguir los nuestros.</h2>
+                <h2 className="giftTexto">Lo más importante es tu presencia. <br></br>Pero si deseas hacernos un regalo...</h2>
                 <div className="divContacto">
                  <Alert></Alert>
                 </div>               

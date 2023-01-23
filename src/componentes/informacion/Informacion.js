@@ -3,6 +3,7 @@ import "./informacion.css"
 import logo from '../img/logo.png'
 import logoUbicacion from '../img/logoUbicacion.png'
 
+
 const Informacion =  () =>{
     return(
         <div className="informacion">
@@ -15,7 +16,7 @@ const Informacion =  () =>{
             daremos el “sí quiero”.<br></br> 
             Continuaremos este emocionante viaje juntos
             y nos encantaría que nos acompañes a celebrar la fiesta de nuestra
-            boda<br></br> llena de brindis, risas y bailes hasta el amanecer.</h2>
+            boda.</h2>
             </div>
             <div className="comoLlegar">
             <img className="logoUbicacion" src={logoUbicacion}/>
