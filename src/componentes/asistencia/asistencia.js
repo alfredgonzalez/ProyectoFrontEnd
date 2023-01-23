@@ -19,7 +19,7 @@ const Asistencia = () =>{
             </div>
             <div className="botones">
             <Button className="botonAsistencia" variant="outline-secondary" size="lg" href="https://forms.gle/J6z7MMLM9nEAoq5Q6">Asistencia</Button>{''}
-            <Button className="botonGuardarFecha" variant="outline-secondary" size="lg" href="https://calendar.google.com/calendar/u/0/r/day/2023/3/24?sf=true">Guarda la fecha!</Button>{''}
+            <Button className="botonGuardarFecha" variant="outline-secondary" size="lg" href="https://calendar.google.com/calendar/u/0/r/day/2023/3/24?sf=true">¡Guarda la fecha!</Button>{''}
             </div>
             <div className="nosotros">
                 <h3 className="nosotrosTitulo">

@@ -4,7 +4,7 @@ import "./sweetalert.css";
 import Button from "react-bootstrap/esm/Button";
 import img from '../img/GIFTFOTO.jpg'
  
-const br = "CBU: 0290036010000030595111 - Alias: LUEMI"
+const br = "CBU: 0290036010000030595111 - Alias: luciaevagonzalez"
 
 export default class AlertSuccess extends Component {  
   
