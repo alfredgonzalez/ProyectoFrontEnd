@@ -31,7 +31,7 @@ const Temporizador = ({cuentaRegresivaMS}) => {
                 <span>{tiempoRestante.days}</span>
                 <span className="diasRestantes"> Dias </span>
                 <span className="two-numbers">{tiempoRestante.hours}</span>
-                <span className="hora"> Hora </span>
+                <span className="hora"> Horas </span>
                 <span className="two-numbers">{tiempoRestante.minutes}</span>
                 <span> Min </span>
                 <span className="two-numbers">{tiempoRestante.seconds}</span>
